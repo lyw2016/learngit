@@ -1,0 +1,13 @@
+Idea重构快捷键
+重命名:shift + F6
+移动文件:F6
+copy文件:F5
+
+
+Java类代码
+Constant(常量)						Ctrl+Alt+C
+Field(参数)							Ctrl+Alt+F
+Parameter							Ctrl+Alt+P
+Functional Parameter(功能参数)		Ctrl+Alt+Shift+P
+Parameter Object		
+Method				(构建方法)		Ctrl+Alt+M
